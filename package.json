@@ -1,0 +1,24 @@
+{
+  "name": "emptyfolder",
+  "version": "1.0.0",
+  "description": "This is empty folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeSemenov/social-net.git"
+  },
+  "keywords": [
+    "It's",
+    "my",
+    "repository"
+  ],
+  "author": "Goshanbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeSemenov/social-net/issues"
+  },
+  "homepage": "https://github.com/GeorgeSemenov/social-net#readme"
+}
